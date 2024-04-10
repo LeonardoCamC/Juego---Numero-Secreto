@@ -1,4 +1,4 @@
-/*
+
 let numeroSecreto = generarNumeroSecreto();
 let intentos = 0;
 
@@ -59,7 +59,7 @@ function reiniciarJuego() {
 }
 
 condicionesIniciales();
-*/
+
 
 
 /*
